@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hendriam
+- 👋 Hi, my name @hendriam
 - 👀 I’m Fullstack Web Developer
-- 🌱 I’m currently learning UI/UI, ReactJS, and more...
-- 💞️ I've had experience using nodejs, laravel, mongodb, and more.. 
+- 🌱 Currently learning UI/UI, ReactJS, and more...
+- 💞️ I've experience using nodejs, laravel, mongodb, and more.. 
 - 📫 hendriam18@gmail.com
 
 <!---
